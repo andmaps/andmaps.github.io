@@ -9,10 +9,11 @@ permalink: /
     <img src="{{ '/assets/images/Self_with_dinosaur.jpg' | relative_url }}" alt="Portrait of An"
          class="rounded-circle"
          style="width: 350px; height: 350px; object-fit: cover;">
+  </div>
   <div style="margin-left: 2rem;">
-    <h2>Xin chào!</h2>
-    <p>I'm An, originally from Vietnam, now based in Canada. I have a Bsc. in Geography and a full time GIS job.</p>
-    <p>This is where I showcase the maps I made outside of work.<p>
-    <p>Besides cartography, I enjoy watching football (Liverpool F.C and SC Freiburg) and spending time with my bosses (my wife, my daughter, and our cat).</p>
-  
-
+    <p>
+      Hello, I’m An, originally from Vietnam, now based in Canada. My background is in Geography, and I’m passionate about storytelling.<br><br>
+      In my free time, I enjoy watching football (Liverpool F.C and SC Freiburg), taking photographs (with my trusty X-E1), and spending time with my bosses (my wife and my daughter).
+    </p>
+  </div>
+</div>
