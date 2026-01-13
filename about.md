@@ -11,8 +11,9 @@ permalink: /about/
   </div>
   <div style="margin-left: 2rem;">
     <p>
-      Hello, I’m An, originally from Vietnam, now based in Canada. My background is in Geography, and I’m passionate about storytelling.<br><br>
-      In my free time, I enjoy watching football (Liverpool F.C and SC Freiburg), taking photographs (with my trusty X-E1), and spending time with my bosses (my wife and my daughter).
+      Hello, I’m An, originally from Vietnam, now based in NS, Canada.
+      I have over 3 years of GIS-related work, working in the renewable energy industry. <br><br>
+      When I'm not chasing my daughter around the house, you can find me reading, writing, or trying to chase my childhood dream of being a pro soccer player.
     </p>
   </div>
 </div>
