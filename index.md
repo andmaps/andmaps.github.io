@@ -14,10 +14,10 @@ permalink: /
     <h2 style="font-size: 2rem; font-weight: bold;">Xin chào!</h2>
     <p></p>
     <p>
-      I'm An, originally from Vietnam, now based in Canada. I have a Bsc. in Geography and a full time GIS job.
-    </p>
-    <p>
-      This is where I showcase the maps I made outside of work.
+      I'm An, originally from Vietnam, now based in Nova Scotia, Canada.
+      I have 4 years of experience in GIS supporting renewable energy development
+      and different environmental issues. 
+      I hold a Bsc. in Geography from Saint Mary's University.
     </p>
   </div>
 </div>
