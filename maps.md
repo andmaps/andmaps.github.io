@@ -6,6 +6,11 @@ permalink: /maps/
 
 <section class="maps">
   <div class="maps-section">
+    <h2>Personal</h2>
+
+  <p class="maps-note">Coming Soon...</p>
+</div>
+  <div class="maps-section">
     <div class="maps-section">
   <h2>ABO Energy</h2>
 
@@ -32,9 +37,15 @@ permalink: /maps/
     </li>
   </ul>
 </div>
+<div class="maps-section">
+  <h2>Others</h2>
 
-  <div class="maps-section">
-    <h2>Personal</h2>
-
-  <p class="maps-note">Coming Soon...</p>
+  <ul class="maps-list">
+    <li>
+      <a href="https://ecologyaction.ca/our-work/wilderness/gold-mining#digging-into-gold-mining-story-map" target="_blank">
+        <span class="title">Digging into Gold Mining</span>
+        <span class="meta">Story Map</span>
+      </a>
+    </li>
+  </ul>
 </div>
