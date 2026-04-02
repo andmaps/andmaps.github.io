@@ -38,5 +38,3 @@ permalink: /maps/
 
   <p class="maps-note">Coming Soon...</p>
 </div>
-
-</section>
