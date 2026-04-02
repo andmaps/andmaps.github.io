@@ -36,18 +36,7 @@ permalink: /maps/
   <div class="maps-section">
     <h2>Personal</h2>
 
-    <ul class="maps-list">
-      <li>
-        <a href="YOUR_LINK_HERE">
-          Map Title One
-        </a>
-      </li>
-      <li>
-        <a href="YOUR_LINK_HERE">
-          Map Title Two
-        </a>
-      </li>
-    </ul>
-  </div>
+  <p class="maps-note">Coming Soon...</p>
+</div>
 
 </section>
