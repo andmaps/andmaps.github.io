@@ -4,3 +4,14 @@
 @import "bootstrap-dark";
 @import "syntax-highlighting";
 @import "main";
+.maps-list a {
+  transition: opacity 0.2s ease;
+}
+
+.maps-list:hover li a {
+  opacity: 0.4;
+}
+
+.maps-list li a:hover {
+  opacity: 1;
+}
