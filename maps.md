@@ -44,7 +44,7 @@ permalink: /maps/
     <li>
       <a href="https://ecologyaction.ca/our-work/wilderness/gold-mining#digging-into-gold-mining-story-map" target="_blank">
         <span class="title">Digging into Gold Mining</span>
-        <span class="meta">Story Map</span>
+        <span class="meta">StoryMap</span>
       </a>
     </li>
   </ul>
