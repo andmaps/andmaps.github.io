@@ -4,14 +4,129 @@
 @import "bootstrap-dark";
 @import "syntax-highlighting";
 @import "main";
+
+/* =========================
+   Global Refinement
+   ========================= */
+
+body {
+  line-height: 1.5;
+}
+
+
+/* =========================
+   Maps Page Layout
+   ========================= */
+
+.maps {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+.maps h1 {
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+}
+
+
+/* Intro */
+
+.maps-intro {
+  font-size: 0.95rem;
+  opacity: 0.6;
+  margin-bottom: 50px;
+  max-width: 500px;
+}
+
+
+/* Sections */
+
+.maps-section {
+  margin-bottom: 80px;
+}
+
+.maps-section h2 {
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  opacity: 0.6;
+  margin-bottom: 20px;
+}
+
+
+/* Lists */
+
+.maps-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.maps-list li {
+  margin-bottom: 14px;
+}
+
+
+/* Links */
+
 .maps-list a {
+  text-decoration: none;
+  color: inherit;
+  display: inline-block;
   transition: opacity 0.2s ease;
 }
 
+
+/* Title + metadata */
+
+.maps-list .title {
+  display: block;
+  margin-bottom: 2px;
+}
+
+.maps-list .meta {
+  display: block;
+  font-size: 0.8rem;
+  opacity: 0.45;
+}
+
+
+/* Hover interaction */
+
 .maps-list:hover li a {
-  opacity: 0.4;
+  opacity: 0.3;
 }
 
 .maps-list li a:hover {
   opacity: 1;
+}
+
+
+/* Notes (e.g. Coming Soon) */
+
+.maps-note {
+  font-size: 0.9rem;
+  opacity: 0.6;
+}
+
+
+/* =========================
+   Layout Override (Bootstrap fix)
+   ========================= */
+
+/* Prevent overly narrow container from Bootstrap */
+
+.container,
+.container-lg,
+.container-md,
+.container-sm {
+  max-width: 900px;
+}
+
+
+/* Optional: smoother page spacing */
+
+.page-content {
+  padding-top: 40px;
 }
