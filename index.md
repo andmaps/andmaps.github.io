@@ -14,10 +14,7 @@ permalink: /
     <h2 style="font-size: 2rem; font-weight: bold;">Xin chào!</h2>
     <p></p>
     <p>
-      I'm An, originally from Vietnam, now based in Nova Scotia, Canada.
-      I have 4 years of experience in GIS supporting renewable energy development
-      and different environmental issues. 
-      I hold a Bsc. in Geography from Saint Mary's University.
+    I'm An, and I make maps*.
     </p>
   </div>
 </div>
