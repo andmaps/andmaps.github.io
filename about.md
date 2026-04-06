@@ -11,9 +11,11 @@ permalink: /about/
   </div>
   <div style="margin-left: 2rem;">
     <p>
-      Hello, I’m An, originally from Vietnam, now based in NS, Canada.
-      I have over 3 years of GIS-related work, working in the renewable energy industry. <br><br>
-      When I'm not chasing my daughter around the house, you can find me reading, writing, or trying to chase my childhood dream of being a pro soccer player.
+     Xin chào!
+      I'm An, originally from Vietnam, now based in Nova Scotia, Canada.
+      I have 4+ years of GIS experience spanning environmental advocacy, wetland monitoring, and renewable energy.
+      I'm drawn to the spatial questions that sit behind environmental issues, urban planning, and transportation — and what good analysis can reveal about them.
+      Outside of work, I'm a dad, a self-inflicted language learner, and someone who always seems to have one too many books on the go.
     </p>
   </div>
 </div>
