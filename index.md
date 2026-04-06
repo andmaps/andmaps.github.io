@@ -14,7 +14,7 @@ permalink: /
     <h2 style="font-size: 2rem; font-weight: bold;">Xin chào!</h2>
     <p></p>
     <p>
-    I'm An, and I make maps*.
+    I'm An, and I make maps*
     </p>
   </div>
 </div>
