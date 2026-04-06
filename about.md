@@ -14,8 +14,8 @@ permalink: /about/
      Xin chào!
       I'm An, originally from Vietnam, now based in Nova Scotia, Canada.
       I have 4+ years of GIS experience spanning environmental advocacy, wetland monitoring, and renewable energy.
-      I'm drawn to the spatial questions that sit behind environmental issues, urban planning, and transportation — and what good analysis can reveal about them.
-      Outside of work, I'm a dad, a self-inflicted language learner, and someone who always seems to have one too many books on the go.
+      I'm drawn to the applications of spatial intelligence to a wide range of topics such as environmental issues, urban planning, and transportation.
+      Outside of work, I'm a proud dad, a wannabe polyglot, and a voracious reader (with a serious overcommitment problem).
     </p>
   </div>
 </div>
